@@ -1,0 +1,2 @@
+<footer><div class="wrap d-flex flex-wrap justify-content-between gap-3"><div><b class="brand">Al Ikthibar Repair</b><p>Niloys Industrial Area, Abu Dhabi, UAE</p></div><div><a href="<?=wa()?>" target="_blank">WhatsApp +880 1537470591</a><br><a href="book.php">Book an appointment</a></div></div><p class="copy">© <?=date('Y')?> Al Ikthibar Repair. All rights reserved.</p></footer>
+<script src="assets/app.js"></script></body></html>

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "config"
+		},
+		{
+			"path": "includes"
+		},
+		{
+			"path": "uploads"
+		},
+		{
+			"path": "admin"
+		},
+		{
+			"path": "assets"
+		}
+	]
+}
